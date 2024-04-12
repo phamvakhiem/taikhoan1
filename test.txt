@@ -1,2 +1,2 @@
 day la file test.txt
-Thuoc brand main
+Thuoc brand week1
